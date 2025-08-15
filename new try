@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>hello world</title>
+  </head>
+  <body>
+    <h1 style="font-family: Arial; text-align: center; margin-top: 20px;">
+      <strong style="color: blue;">Fayaz:</strong> Hello World!
+    </h1>
+    <p style="font-family:Arial;text-align: center; margin-top: 20px;">
+      This is a simple HTML page created to promote my sister's YouTube channel.</p>
+      <br>
+      <hr style="margin: 30px 0;">
+      <p style="text-align: center; margin-top: 20px;">Subscribe to her channel for amazing content!
+    </p>
+    <p style="font-family:Arial; text-align: center; margin-top: 20px;">
+        <strong style="color: green;">Farisha:</strong> Welcome to my channel!
+        </p>
+    <a href="https://www.youtube.com/@farisha_171" style="display:block; text-align:center; margin-top:20px;">
+  Visit Farisha's YouTube Channel
+</a>
+  </body>
+</html>
